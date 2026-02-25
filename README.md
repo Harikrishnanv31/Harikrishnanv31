@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋,Harikrishnan V</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I have 3 years of experience as a *Full Stack Developer* specializing in the *MERN stack (MongoDB, Express.js, React, Node.js)*.
+🌱 pursuing my Btech degree in MNM Jain Engineering college *.
 
-- 👨‍💻 All of my projects are available at [https://guhan-protfolio-mysite.netlify.app/](https://guhan-protfolio-mysite.netlify.app/)
+👨‍💻 All of my projects are available at 
 
-- 💬 Ask me about *HTML,CSS,JAVASCRIPT,REACT,NODEJS,MONGODB*
+💬 Ask me about HTML,CSS,JAVASCRIPT,REACT,NODEJS,MONGODB
 
-- 📫 How to reach me *neelakandanguhan@gmail.com*
+📫 How to reach me*harikrishnanoff@gamil.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
