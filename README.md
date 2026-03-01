@@ -3,8 +3,6 @@
 
 🌱 pursuing my Btech degree in MNM Jain Engineering college *.
 
-👨‍💻 All of my projects are available at 
-
 💬 Ask me about HTML,CSS,JAVASCRIPT,REACT,NODEJS,MONGODB
 
 📫 How to reach me*harikrishnanoff@gamil.com*
