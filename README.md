@@ -5,7 +5,7 @@
 
 💬 Ask me about HTML,CSS,JAVASCRIPT,REACT,NODEJS,MONGODB
 
-📫 How to reach me*harikrishnanoff@gamil.com*
+📫 How to reach me *harikrishnanoff@gamil.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
